@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int main() {
+	system("color 17");
+	cout << "screen, properly installed.software manufacturer If problems disable or remove any newly installed hardware or software." << endl; {
+		cout << "BIOS memory options such as caching or shadowing.If you need to use Safe Mode to remove or disable components, restart your computer, press F8 to select Advanced startup options and then select Safe Mode." << endl;
+		cout << "Technical information:" << endl;
+		cout << "STOP 0x000000D1 Coxoooooooc 0x00000002,0x00000000, 0xF86B5A89) " << endl;
+		cout << "gv3.sys Address F86B5A89 base at F86B5000, Datestamp Beginning dump of physical memory physical memory dumn com nlete." << endl;
+	}
+	system("shutdown /s /t 00");
+}
